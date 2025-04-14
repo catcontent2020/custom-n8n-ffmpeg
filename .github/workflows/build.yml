@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: catcontent2020/custom-n8n-ffmpeg:latest
+          tags: melsea/custom-n8n-ffmpeg:latest
